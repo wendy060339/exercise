@@ -1,5 +1,6 @@
 <h1>分頁清單</h1>
 提供使用者可點選上方按鍵跳至其他分頁查看內容（如：about、porfolio...）
+<img width="959" alt="螢幕擷取畫面 2023-04-08 151458" src="https://user-images.githubusercontent.com/113776700/230708716-73d02a9b-88a7-4110-a926-6ec93950229b.png">
 
 <h3>功能</h3>
 <li>使用者可以點擊按鍵至不同分頁
